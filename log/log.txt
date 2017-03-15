@@ -14,3 +14,5 @@ w01-170216-13-LR-About : Tutorial Scripting
 w01-170216-13-LR-About : Tutorial Scripting
 w01-170216-14-LR-About : Tutorial Scripting
 w01-170216-14-LR-About : Tutorial Scripting
+w05-170315-14-LR-About : Memory
+w05-170315-14-LR-About : Memory
